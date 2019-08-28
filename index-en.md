@@ -1,4 +1,4 @@
-! [ID] (/tupian.png)
+![ID](/tupian.png)
 ### Personal Information
 #### Name: Zhao Pengshuo
 #### Education: Bachelor's degree
@@ -26,4 +26,4 @@ Two
 Three
 
 ###
-[Chinese version] (index.md)
+[Chinese version](index.md)
