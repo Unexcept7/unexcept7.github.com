@@ -14,7 +14,14 @@
 - javaweb
 - 大数据挖掘分析
 - 人工智能
-
+### 专业技能
+linux技能：基本的Linux命令，使用centos，ubuntu等Linux系统
+数据库技能：mysql，sqlserver，oracle，hive数据仓库的使用
+Java语言：用Java语言进行基本的网站开发。mvc框架
+大数据技术：掌握大数据生态系统相关的技术（hdfs、mapreduce、hbase、hive)等，了解其基本原理。
+数据抽取工具：用kettle进行数据的转换
+版本管理、文档和自动化部署工具：会使用github代码管理工具
+单元测试：用eclipse自带的Qunit进行软件测试
 ### 荣誉奖励
 - 荣誉称号：普通话二级
 - 比赛获奖：科赛大数据入围赛
